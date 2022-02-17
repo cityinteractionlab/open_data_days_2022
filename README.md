@@ -1,12 +1,14 @@
-# open data days 2022 draft
+# open data days 2022 
 
 
 Open data Date:
 **05.03.2022**
 
-**Location:** Online or hybrid at LPI 
+**Location:** Hybrid event (online and LPI)
 
-**Organisers**: Kati, Liu (part time), write to us if you are interested to join
+**Organisers**: Kati, Liu (part time), LPI (France), correlaid.org (Germany) 
+
+Contact us if you are interested to join
 
 Organization:
 CorrelAid hosts an online hackathon, cities can participate 
@@ -17,6 +19,7 @@ Example of projects from last year for inspiration
 
 City Interaction lab and Correlaid hackathon 2021
 https://github.com/cityinteractionlab/correlaid-hackathon-housing 
+https://correlaid.org/
 
 # Examples of data
 France Data 
