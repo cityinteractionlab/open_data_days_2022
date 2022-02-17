@@ -17,3 +17,21 @@ Example of projects from last year for inspiration
 
 City Interaction lab and Correlaid hackathon 2021
 https://github.com/cityinteractionlab/correlaid-hackathon-housing 
+
+# Examples of data
+France Data 
+https://www.data.gouv.fr/fr/
+
+Paris Data 
+https://opendata.paris.fr
+
+Paris logement data
+https://opendata.paris.fr/explore/dataset/logement-encadrement-des-loyers/table/?disjunctive.id_zone&disjunctive.nom_quartier&disjunctive.piece&disjunctive.epoque&disjunctive.meuble_txt&location=12,48.8541,2.45424&basemap=jawg.streets
+
+
+
+OECD data
+https://measuringurban.oecd.org/ 
+
+UK data
+https://data.gov.uk/
