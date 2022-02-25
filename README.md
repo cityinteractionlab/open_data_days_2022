@@ -21,7 +21,7 @@ City Interaction lab and Correlaid hackathon 2021
 https://github.com/cityinteractionlab/correlaid-hackathon-housing 
 https://correlaid.org/
 
-# Examples of data
+# data sources
 France Data 
 https://www.data.gouv.fr/fr/
 
@@ -31,10 +31,16 @@ https://opendata.paris.fr
 Paris logement data
 https://opendata.paris.fr/explore/dataset/logement-encadrement-des-loyers/table/?disjunctive.id_zone&disjunctive.nom_quartier&disjunctive.piece&disjunctive.epoque&disjunctive.meuble_txt&location=12,48.8541,2.45424&basemap=jawg.streets
 
-
-
 OECD data
 https://measuringurban.oecd.org/ 
 
 UK data
 https://data.gov.uk/
+
+# datasets proposed 
+
+Trees of Paris https://github.com/Liyubov/tree_project extracted from https://opendata.paris.fr
+
+Data on borders evolution in time https://github.com/aourednik/historical-basemaps
+
+Data on citizen science activism in cities (TBI)
