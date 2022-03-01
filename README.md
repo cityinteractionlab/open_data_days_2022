@@ -6,7 +6,7 @@ Open data Date:
 
 **Location:** Hybrid event (online and LPI)
 
-**Organisers**: Kati, Liu (part time), LPI (France), correlaid.org (Germany) 
+**Organisers**: Kati, Chetan, Liu (part time), LPI (France), correlaid.org (Germany) 
 
 Contact us if you are interested to join
 
@@ -44,3 +44,5 @@ Trees of Paris https://github.com/Liyubov/tree_project extracted from https://op
 Data on borders evolution in time https://github.com/aourednik/historical-basemaps
 
 Data on citizen science activism in cities (TBI)
+
+Data on bike parking spaces (partly open, partly not yet open - we're in contact with Mairie de Paris on that.
