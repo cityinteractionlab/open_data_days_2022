@@ -6,7 +6,7 @@ Open data Date:
 
 **Location:** Hybrid event (online and LPI)
 
-**Organisers**: Kati, Liu (part time), LPI (France), correlaid.org (Germany) 
+**Organisers**: Kati, Chetan, Emilia, Rathin, Liu (part time), LPI (France), City Interaction lab, correlaid.org (Germany) 
 
 Contact us if you are interested to join
 
