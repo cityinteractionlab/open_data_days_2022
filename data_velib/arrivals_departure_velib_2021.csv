@@ -1,4 +1,5 @@
 ID_station;station_name;month;value;type
+10001;René Boulanger - Lancry;Janvier;4059;departure
 10003;Hauteville - Bonne Nouvelle;Janvier;2513;departure
 10004;Metz - Faubourg Saint-Denis;Janvier;5172;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Janvier;2949;departure
@@ -1000,6 +1001,9 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Janvier;1602;departure
 9115;Milton - Manuel;Janvier;1233;departure
 9116;Victoire - Chaussée d'Antin;Janvier;1433;departure
+9117;Bellefond - Maubeuge;Janvier;1659;departure
+9118;Faubourg Poissonniere - Delta;Janvier;1626;departure
+10001;René Boulanger - Lancry;Février;4131;departure
 10003;Hauteville - Bonne Nouvelle;Février;2611;departure
 10004;Metz - Faubourg Saint-Denis;Février;4814;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Février;2891;departure
@@ -2001,6 +2005,9 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Février;1319;departure
 9115;Milton - Manuel;Février;1052;departure
 9116;Victoire - Chaussée d'Antin;Février;1216;departure
+9117;Bellefond - Maubeuge;Février;1474;departure
+9118;Faubourg Poissonniere - Delta;Février;1563;departure
+10001;René Boulanger - Lancry;Mars;4517;departure
 10003;Hauteville - Bonne Nouvelle;Mars;3384;departure
 10004;Metz - Faubourg Saint-Denis;Mars;6412;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Mars;3856;departure
@@ -3002,6 +3009,9 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Mars;1836;departure
 9115;Milton - Manuel;Mars;1404;departure
 9116;Victoire - Chaussée d'Antin;Mars;1468;departure
+9117;Bellefond - Maubeuge;Mars;1859;departure
+9118;Faubourg Poissonniere - Delta;Mars;1957;departure
+10001;René Boulanger - Lancry;Avril;3833;departure
 10003;Hauteville - Bonne Nouvelle;Avril;2759;departure
 10004;Metz - Faubourg Saint-Denis;Avril;6312;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Avril;3259;departure
@@ -4003,6 +4013,9 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Avril;1800;departure
 9115;Milton - Manuel;Avril;1245;departure
 9116;Victoire - Chaussée d'Antin;Avril;1331;departure
+9117;Bellefond - Maubeuge;Avril;1640;departure
+9118;Faubourg Poissonniere - Delta;Avril;2225;departure
+10001;René Boulanger - Lancry;Mai;4181;departure
 10003;Hauteville - Bonne Nouvelle;Mai;3932;departure
 10004;Metz - Faubourg Saint-Denis;Mai;7063;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Mai;3845;departure
@@ -5004,6 +5017,9 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Mai;2207;departure
 9115;Milton - Manuel;Mai;1470;departure
 9116;Victoire - Chaussée d'Antin;Mai;1579;departure
+9117;Bellefond - Maubeuge;Mai;1857;departure
+9118;Faubourg Poissonniere - Delta;Mai;2144;departure
+10001;René Boulanger - Lancry;Juin;5819;departure
 10003;Hauteville - Bonne Nouvelle;Juin;5128;departure
 10004;Metz - Faubourg Saint-Denis;Juin;8965;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Juin;5147;departure
@@ -6005,6 +6021,9 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Juin;2132;departure
 9115;Milton - Manuel;Juin;1663;departure
 9116;Victoire - Chaussée d'Antin;Juin;2263;departure
+9117;Bellefond - Maubeuge;Juin;2317;departure
+9118;Faubourg Poissonniere - Delta;Juin;2561;departure
+10001;René Boulanger - Lancry;Juillet;5008;departure
 10003;Hauteville - Bonne Nouvelle;Juillet;4108;departure
 10004;Metz - Faubourg Saint-Denis;Juillet;7655;departure
 10005;Petites Ecuries - Faubourg Poissonnière;Juillet;4032;departure
@@ -7006,6 +7025,8 @@ ID_station;station_name;month;value;type
 9114;Faubourg Poissonnière - Dunkerque;Juillet;1407;departure
 9115;Milton - Manuel;Juillet;914;departure
 9116;Victoire - Chaussée d'Antin;Juillet;2169;departure
+9117;Bellefond - Maubeuge;Juillet;1619;departure
+9118;Faubourg Poissonniere - Delta;Juillet;1856;departure
 0000002;Station Fermeture Système;Janvier;;arrival
 10001;René Boulanger - Lancry;Janvier;4059;arrival
 10003;Hauteville - Bonne Nouvelle;Janvier;2563;arrival
