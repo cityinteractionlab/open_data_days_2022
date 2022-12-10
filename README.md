@@ -28,6 +28,8 @@ https://www.data.gouv.fr/fr/
 Paris Data 
 https://opendata.paris.fr
 
+https://opendata.apur.org/datasets/Apur::recensement-iris-emploi/explore?location=48.828504%2C2.379750%2C10.99 
+
 Paris logement data
 https://opendata.paris.fr/explore/dataset/logement-encadrement-des-loyers/table/?disjunctive.id_zone&disjunctive.nom_quartier&disjunctive.piece&disjunctive.epoque&disjunctive.meuble_txt&location=12,48.8541,2.45424&basemap=jawg.streets
 
